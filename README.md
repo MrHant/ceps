@@ -1,2 +1,2 @@
 # ceps
-[Experiment] top-down spec
+[Experiment] bottom-up spec
