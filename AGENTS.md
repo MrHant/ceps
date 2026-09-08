@@ -5,6 +5,7 @@ ceps is a language-independent protocol, not an implementation framework. Read `
 ## Repository map
 
 - `ceps.md`: complete normative specification and agent workflow
+- `DECISION_LOG.md`: deliberate design decisions and the reasoning behind them
 
 ## Change rules
 
