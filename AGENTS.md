@@ -1,3 +1,6 @@
+This document describes development of ceps protocol itself. 
+Projects implementing ceps - doesn't need current document.
+
 # Working on ceps
 
 ceps is a language-independent protocol, not an implementation framework. Read `ceps.md` before changing protocol behavior.
