@@ -10,7 +10,7 @@ Ceps exams live in `ceps/exams/` and are separate from whatever tests the projec
 
 ## Status
 
-ceps is experimental. The current protocol version is **0.2**.
+ceps is experimental. The current protocol version is **0.3**.
 
 ## How it works
 
